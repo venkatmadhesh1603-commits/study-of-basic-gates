@@ -80,13 +80,16 @@ endmodule
 ```
  
 **Logic symbol & Truthtable**
-![alt text](2.png)
+<img width="679" height="565" alt="image" src="https://github.com/user-attachments/assets/1636be6a-b5c1-475f-9d8e-47f2dbb51a13" />
+
 
 **RTL realization Output:** 
-![alt text](<Screenshot 2025-11-13 224748.png>)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f5b51bdc-d409-498e-8a3b-b28db1d25a57" />
+
 
 **RTL**
-![alt text](<Screenshot 2025-11-13 224812.png>)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cd97a63d-e802-48eb-9877-22dc2109e6ed" />
+
 
 **Result:**
 Thus the truth table of logic gates is studied and verified in Quartus II using verilog programming.
